@@ -1,0 +1,39 @@
+{
+  "tarjetas": [
+        {
+            "imagen": "Assests/images/04.png",
+            "calendario": "2013 - 2023",
+            "cargo": "Grupo Distribuna SAS",
+            "descricion": "Cargo: Diseñador gráfico – Diagramador. Duración: 5 años en el cargo de mensajero y 4 años en el cargo de Diseñador Gráfico Trabajo en equipo editorial con base en políticas institucionales de la marca, en constante comunicación con el autor. Diseño Editorial y Producción Gráfica para el Diseño y Diagramación de piezas, como; folletos – portafolios – manuales – guías- catálogos – boletines – periódicos – revistas – libros – ilustración educativa e informática – fotografía publicitaria. Manejo de Suite Adobe (Illustrator, Photoshop, InDesign), elaboración de infografías, diseño editorial, manejo de programas de edición de fotos, video y Habilidades en SEO, posicionamiento en buscadores de manera orgánica, cumpliendo estándares para un óptimo funcionamiento."
+        },
+
+        {
+            "imagen": "Assests/images/04.png",
+            "calendario": "2013 - 2023",
+            "cargo": "Sincotel Solutions Ltda.",
+            "descricion": "Cargo: Diseñador gráfico - Diagramador e-learning Duración: Por proyecto (Escuela Superior de Administración Pública - ESAP; Bogotá Aprende TIC - http://bogotaaprendetic.gov.co/). Elaboración de infografías interactivas, Material educativo descargable, Objetos virtuales de aprendizaje (OVA) html5."
+        },
+
+        {
+            "imagen": "Assests/images/04.png",
+            "calendario": "2008- 2009",
+            "cargo": "Sena",
+            "descricion": "Tecnico en matenimiento de computadores en el sena"
+        },
+
+        {
+            "imagen": "Assests/images/04.png",
+            "calendario": "2013 - 2017",
+            "cargo": "Corporación Universitaria UNITEC",
+            "descricion": "Profecional en diseño gráfico"
+        },
+
+        {
+            "imagen": "Assests/images/04.png",
+            "calendario": "2017 - 2017",
+            "cargo": "Corporación Universitaria UNITEC",
+            "descricion": "Diplomado Marketing Digita"
+        }
+          
+  ]
+}
